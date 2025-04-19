@@ -1,0 +1,17 @@
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    height: 100vh;
+    margin: 0;
+    font-family: cursive;
+    background-color: #a49393;
+  }
+
+  img {
+    max-width: 150px;
+    border-radius: 12px;
+    margin-bottom: 20px;
+  }
